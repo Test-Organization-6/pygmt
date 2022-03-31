@@ -1,6 +1,6 @@
 PyGMT
 =====
-
+--yoyo--
     A Python interface for the Generic Mapping Tools
 
 `Documentation (development version) <https://www.pygmt.org/dev>`__ |
